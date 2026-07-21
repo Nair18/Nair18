@@ -26,10 +26,10 @@ Backend Engineer building distributed systems one message queue at a time. Build
 
 ## Tech Stack
 
-Java • Go • Python
-Spring Boot • Gin
-Kafka • Redis • DynamoDB
-AWS • Terraform
+Java • Go • Python •
+Spring Boot • Gin •
+Kafka • Redis • DynamoDB •
+AWS • Terraform •
 Docker • Kubernetes
 
 ## Contact
