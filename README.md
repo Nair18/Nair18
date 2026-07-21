@@ -1,6 +1,6 @@
 # Hi, I'm Karthik 👋
 
-Senior Backend Engineer
+Backend Engineer building distributed systems one message queue at a time. Building systems where the happy path is the easy part—and failure is a first-class citizen.
 
 ## About Me
 
