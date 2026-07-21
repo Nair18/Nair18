@@ -20,9 +20,9 @@ Backend Engineer building distributed systems one message queue at a time. Build
 ## Current Interests
 
 - Distributed Systems
-- LLM Agents
-- High Scale Backend
-- System Design
+- High-Scale Backend Architecture
+- AI Agents & LLM Applications
+- Performance Engineering
 
 ## Tech Stack
 
