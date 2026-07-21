@@ -9,6 +9,14 @@ Senior Backend Engineer
 - AWS | Kafka | Redis | DynamoDB | MySQL
 - Payments, Order Management, AI Platforms
 
+## Domains
+
+- Payments
+- E-commerce
+- Order & Inventory Management
+- Logistics & Shipment Tracking
+- AI / LLM Systems
+
 ## Current Interests
 
 - Distributed Systems
