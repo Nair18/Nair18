@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Karthik 👋
 
-<!--
-**Nair18/Nair18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Backend Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 7+ years building distributed backend systems
+- Java, Go, Python
+- AWS | Kafka | Redis | DynamoDB | MySQL
+- Payments, Order Management, AI Platforms
+
+## Current Interests
+
+- Distributed Systems
+- LLM Agents
+- High Scale Backend
+- System Design
+
+## Tech Stack
+
+Java • Go • Python
+Spring Boot • Gin
+Kafka • Redis • DynamoDB
+AWS • Terraform
+Docker • Kubernetes
+
+## Contact
+
+LinkedIn - https://www.linkedin.com/in/karthiknair18/
+Email - nair.akg11@gmail.com
