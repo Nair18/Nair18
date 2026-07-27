@@ -15,13 +15,11 @@ Backend Engineer building distributed systems one message queue at a time. Build
 - E-commerce
 - Order & Inventory Management
 - Logistics & Shipment Tracking
-- AI / LLM Systems
 
 ## Current Interests
 
 - Distributed Systems
 - High-Scale Backend Architecture
-- AI Agents & LLM Applications
 - Performance Engineering
 
 ## Tech Stack
